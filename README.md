@@ -25,4 +25,5 @@ To run the tests in headless mode with a mobile device resolution, run `npm run 
 
 ___
 
-This project was created with 💚 by [Walmyr](https://walmyr.dev).
+This project was created by [Walmyr](https://walmyr.dev).
+
